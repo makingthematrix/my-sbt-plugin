@@ -1,0 +1,11 @@
+<idea-plugin>
+    <id>me.and.co.my.awesome.framework</id>
+    <name>My Awesome Framework</name>
+    <version>0.0.1-SNAPSHOT</version>
+    <vendor>Me and Co</vendor>
+
+    <description>A new plugin for IntelliJ platform written in Scala and built with SBT</description>
+
+    <idea-version since-build="203.0"/>
+
+</idea-plugin>
